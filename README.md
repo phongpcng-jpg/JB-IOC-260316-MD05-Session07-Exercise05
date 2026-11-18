@@ -9,6 +9,7 @@
 | **Course**      | BE-105 - Devops                                                    |
 | **Class**       | PTHB260316 - Java Backend                                          |
 | **Session**     | Session07 - Tự động hóa quy trình CI/CD với Github Actions         |
+| **Exercise**    | Exercise05 - Phân tích mã lỗi thất bại và khắc phục sự cố CI       |
 
 ---
 
